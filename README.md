@@ -14,11 +14,13 @@ Database: Supabase(postgres)
 -------------------- วิธีรัน ----------------------
 front
 
-cd frontend
-npm install
-npm run dev
+> cd frontend
+> npm install
+> npm run dev
 
 back
-cd backend
-go mod tidy
-go run main.go
+> cd backend
+> go mod tidy
+> go run main.go
+
+deploy link: https://nurturing-bravery-frontend.up.railway.app/
