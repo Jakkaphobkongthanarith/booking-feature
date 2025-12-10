@@ -23,4 +23,3 @@ back
 > go mod tidy
 > go run main.go
 
-deploy link: https://nurturing-bravery-frontend.up.railway.app/
